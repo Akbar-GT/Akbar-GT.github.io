@@ -27,3 +27,9 @@
   color: #000000;
   background-color: transparent;
 }
+
+.work img,
+.project img {
+  height: 300px;
+  object-fit: cover;
+}
